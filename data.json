@@ -1,0 +1,18 @@
+[
+    {
+        "endereco":"rua 1",
+        "telefone":"928991009",
+        "nome":"Olívia"
+    },
+    {
+        "CPF":"099.778.111-91",
+        "endereco": "rua 19",
+        "email":"huberto.profissional@gmail.com",
+        "complemento":"casa"
+    },
+    {
+        "email":"luiz.schwarz@gmail.com",
+        "senha":"2993f8453f06da87d9df99e0b35f810a9887a38bfee0523014c52308a67d6b6b"
+    }
+
+]
