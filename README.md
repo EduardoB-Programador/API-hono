@@ -1,2 +1,8 @@
-# API-hono
-Uma api com o framework Hono
+```
+npm install
+npm run dev
+```
+
+```
+open http://localhost:3000
+```

@@ -7,8 +7,17 @@ git config --global --list
 git config --global user.name "<nome no github>"
 git config --global user.email "<email no github>"
 
+git remote add origin https://github.com/EduardoB-Programador/API-hono.git
+
 git add . //adiciona mudanças no repositório
 git commit -m "primeiro commit"
 
 git push
-git push --set-upstream origin main 
+git push --set-upstream origin main
+
+git commit -m "1.10.113 - Mexi no banco de dados"
+
+git = Ferramenta de versionamento de código
+github = Hub dos repositórios
+
+npm create hono@latest
