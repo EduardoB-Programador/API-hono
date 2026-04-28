@@ -1,0 +1,6 @@
+CRUD - Operações básicas de todo banco de dados
+
+C -> Create = Criar
+R -> Read   = Ler
+U -> Update = Atualizar
+D -> Delete = Deletar
